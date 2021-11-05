@@ -1,0 +1,14 @@
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\bin\Debug\netcoreapp3.1\Patrones-Observer.exe
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\bin\Debug\netcoreapp3.1\Patrones-Observer.deps.json
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\bin\Debug\netcoreapp3.1\Patrones-Observer.runtimeconfig.json
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\bin\Debug\netcoreapp3.1\Patrones-Observer.runtimeconfig.dev.json
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\bin\Debug\netcoreapp3.1\Patrones-Observer.dll
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\bin\Debug\netcoreapp3.1\Patrones-Observer.pdb
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\obj\Debug\netcoreapp3.1\Patrones-Observer.csproj.AssemblyReference.cache
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\obj\Debug\netcoreapp3.1\Patrones-Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\obj\Debug\netcoreapp3.1\Patrones-Observer.AssemblyInfoInputs.cache
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\obj\Debug\netcoreapp3.1\Patrones-Observer.AssemblyInfo.cs
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\obj\Debug\netcoreapp3.1\Patrones-Observer.csproj.CoreCompileInputs.cache
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\obj\Debug\netcoreapp3.1\Patrones-Observer.dll
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\obj\Debug\netcoreapp3.1\Patrones-Observer.pdb
+C:\Users\nmercado\Documents\c#\Patrones-Observer\Patrones-Observer\obj\Debug\netcoreapp3.1\Patrones-Observer.genruntimeconfig.cache
